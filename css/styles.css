@@ -749,7 +749,7 @@ body {
     align-items: baseline;
     column-gap: 24px;
     row-gap: 72px;
-    margin-left: 92px;
+    padding-left: 108px;
   }
 }
 
@@ -1318,6 +1318,10 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.accent-color {
+  color: #4d5ae5;
 }
 
 .mobile-address-link:hover,
